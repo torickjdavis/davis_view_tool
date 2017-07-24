@@ -24,7 +24,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+<!--TODO: Write usage instructions here-->
+```ruby
+DavisViewTool::Renderer.copyright "NAME", "MESSAGE"
+
+
+DavisViewTool::Renderer.copyright "Torick Davis", "All Rights Reserved"
+```
 
 ## Development
 
